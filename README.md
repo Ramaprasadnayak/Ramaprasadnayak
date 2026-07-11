@@ -88,7 +88,7 @@ Working through Data Structures & Algorithms in Java, one problem set at a time,
 
 <p align="center">
   <a href="https://github.com/RamaprasadNayak"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=A78BFA" /></a>
-  <a href="linkedin.com/in/ramprasad-nayak-a7b90b293"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=7C6FF0" /></a>
+  <a href="https://www.linkedin.com/in/ramprasad-nayak-a7b90b293/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=7C6FF0" /></a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ramprasadnayak999@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=C9D1FF">
   </a>
