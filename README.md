@@ -2,7 +2,7 @@
 
 <!-- ================= HERO HEADER ================= -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=200&amp;section=footer&amp;text=Ramaprasad%20Nayak&amp;fontSize=40&amp;fontColor=ffffff&amp;fontAlignY=70&amp;animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=200&amp;section=footer&amp;text=👋Ramaprasad%20Nayak&amp;fontSize=40&amp;fontColor=ffffff&amp;fontAlignY=70&amp;animation=fadeIn" />
 <p align="center"><i>CSE Student · Flutter & Full-Stack Developer</i></p>
 
 <a href="https://git.io/typing-svg">
