@@ -83,8 +83,12 @@ Working through Data Structures & Algorithms in Java, one problem set at a time,
 | 🧩 **[LeetCode Solutions](https://github.com/RamaprasadNayak/LeetCode-Solutions)** | Growing collection of Java solutions to DSA problems, documenting how my problem-solving approach evolves over time. | `Java` `DSA` `Algorithms` |
 | 🧩 **[Coders Club](https://github.com/Ramaprasadnayak/coders_club)** | A coding platform inspired by LeetCode, built for the Coders Club to practice and improve programming skills.. | `Nodejs` `React` `HTML` `CSS` `JavaScript` `MongoDB` |
 
+## `05` &nbsp;LeetCode Stats
 
-### `05` &nbsp;Let's Connect
+![LeetCode Stats](https://leetcard.jacoblin.cool/Ramprasad_nayak?theme=dark&font=Karma)
+
+
+### `06` &nbsp;Let's Connect
 
 <p align="center">
   <a href="https://github.com/RamaprasadNayak"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=A78BFA" /></a>
