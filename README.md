@@ -57,13 +57,13 @@ open_to: ["Internships", "Collaborative Projects", "Open Source"]
 <tr>
 <td width="50%" valign="top">
 
-**🔧 Building**
+** Building**
 Refining MediCare's backend logic and cart/checkout flow, with an emphasis on clean state management in Flutter.
 
 </td>
 <td width="50%" valign="top">
 
-**📘 Sharpening**
+** Sharpening**
 Working through Data Structures & Algorithms in Java, one problem set at a time, to build sharper problem-solving instincts.
 
 </td>
