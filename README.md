@@ -98,7 +98,15 @@ Working through Data Structures & Algorithms in Java, one problem set at a time,
   </a>
   <a href="https://ramaprasad.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=A78BFA" /></a>
 </p>
+<div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashishpatel26/ashishpatel26/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashishpatel26/ashishpatel26/output/github-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/ashishpatel26/ashishpatel26/output/github-snake.svg" />
+</picture>
+
+</div>
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:2e2157,100:1a1b27&height=120&section=footer" width="100%"/>
