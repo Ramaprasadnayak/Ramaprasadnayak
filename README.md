@@ -72,16 +72,16 @@ Working through Data Structures & Algorithms in Java, one problem set at a time,
 
 <br/>
 
-### 🚀 &nbsp;Featured Projects
+###  &nbsp;Featured Projects
 
 | Project | What it does | Stack |
 |---|---|---|
-| 💊 **[MediCare](https://github.com/RamaprasadNayak/MediCare)**<br/><sub>🩺 *Flutter e-commerce app*</sub> | Full medical e-commerce app with secure authentication, medicine catalog, cloud-hosted product images, wishlist, cart, and a MySQL-backed order system. | `Flutter` `FastAPI` `MySQL` `Cloudinary` |
-| 💬 **[ChatterBro](https://github.com/RamaprasadNayak/ChatterBro)** | Cross-platform chat application built with Flutter, designed around real-time messaging and a smooth, distraction-free conversation UI. | `Flutter` `Real-time` `Cross-platform` `Firebase` |
-| 🌐 **[Portfolio Website](https://github.com/Ramaprasadnayak/Portfolio-website)** | Personal portfolio site showcasing my projects, skills, and the kind of work I want to keep doing. | `React` `HTML` `CSS` `JavaScript` |
-| 🔌 **[ElectroHub](https://github.com/RamaprasadNayak/ElectroHub)** | Frontend web project for an electronics shopping experience, focused on clean product browsing and layout structure. | `Nodejs` `React` `HTML` `CSS` `JavaScript` `MySQL` |
-| 🧩 **[LeetCode Solutions](https://github.com/RamaprasadNayak/LeetCode-Solutions)** | Growing collection of Java solutions to DSA problems, documenting how my problem-solving approach evolves over time. | `Java` `DSA` `Algorithms` |
-| 🧩 **[Coders Club](https://github.com/Ramaprasadnayak/coders_club)** | A coding platform inspired by LeetCode, built for the Coders Club to practice and improve programming skills.. | `Nodejs` `React` `HTML` `CSS` `JavaScript` `MongoDB` |
+|  **[MediCare](https://github.com/RamaprasadNayak/MediCare)**<br/><sub>🩺 *Flutter e-commerce app*</sub> | Full medical e-commerce app with secure authentication, medicine catalog, cloud-hosted product images, wishlist, cart, and a MySQL-backed order system. | `Flutter` `FastAPI` `MySQL` `Cloudinary` |
+|  **[ChatterBro](https://github.com/RamaprasadNayak/ChatterBro)** | Cross-platform chat application built with Flutter, designed around real-time messaging and a smooth, distraction-free conversation UI. | `Flutter` `Real-time` `Cross-platform` `Firebase` |
+|  **[Portfolio Website](https://github.com/Ramaprasadnayak/Portfolio-website)** | Personal portfolio site showcasing my projects, skills, and the kind of work I want to keep doing. | `React` `HTML` `CSS` `JavaScript` |
+|  **[ElectroHub](https://github.com/RamaprasadNayak/ElectroHub)** | Frontend web project for an electronics shopping experience, focused on clean product browsing and layout structure. | `Nodejs` `React` `HTML` `CSS` `JavaScript` `MySQL` |
+|  **[LeetCode Solutions](https://github.com/RamaprasadNayak/LeetCode-Solutions)** | Growing collection of Java solutions to DSA problems, documenting how my problem-solving approach evolves over time. | `Java` `DSA` `Algorithms` |
+|  **[Coders Club](https://github.com/Ramaprasadnayak/coders_club)** | A coding platform inspired by LeetCode, built for the Coders Club to practice and improve programming skills.. | `Nodejs` `React` `HTML` `CSS` `JavaScript` `MongoDB` |
 
 ## `05` &nbsp;LeetCode Stats
 
