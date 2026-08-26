@@ -71,7 +71,7 @@ Working through Data Structures & Algorithms in Java, one problem set at a time,
 
 <br/>
 
-###  &nbsp;Featured Projects
+### `04` &nbsp;Featured Projects
 
 | Project | What it does | Stack |
 |---|---|---|
