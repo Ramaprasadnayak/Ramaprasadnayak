@@ -77,7 +77,7 @@ Working through Data Structures & Algorithms in Java, one problem set at a time,
 | Project | What it does | Stack |
 |---|---|---|
 |  **[SafeYatra](https://github.com/RamaprasadNayak/SafeYatra)** | AI-powered tourist safety platform using NCRB crime data, Random Forest risk classification, geofencing, and emergency alerts. | `Flutter` `FastAPI` `MongoDB` `Sklearn` `Docker`|
-|  **[MediCare](https://github.com/RamaprasadNayak/MediCare)**<br/><sub> *Flutter e-commerce app*</sub> | Full medical e-commerce app with secure authentication, medicine catalog, cloud-hosted product images, wishlist, cart, and a MySQL-backed order system. | `Flutter` `FastAPI` `MySQL` `Cloudinary` |
+|  **[MediCare](https://github.com/RamaprasadNayak/MediCare)** | Full medical e-commerce app with secure authentication, medicine catalog, cloud-hosted product images, wishlist, cart, and a MySQL-backed order system. | `Flutter` `FastAPI` `MySQL` `Cloudinary` |
 |  **[ChatterBro](https://github.com/RamaprasadNayak/ChatterBro)** | Cross-platform chat application built with Flutter, designed around real-time messaging and a smooth, distraction-free conversation UI. | `Flutter` `Real-time` `Cross-platform` `Firebase` |
 |  **[Portfolio Website](https://github.com/Ramaprasadnayak/Portfolio-website)** | Personal portfolio site showcasing my projects, skills, and the kind of work I want to keep doing. | `React` `HTML` `CSS` `JavaScript` |
 |  **[ElectroHub](https://github.com/RamaprasadNayak/ElectroHub)** | Frontend web project for an electronics shopping experience, focused on clean product browsing and layout structure. | `Nodejs` `React` `HTML` `CSS` `JavaScript` `MySQL` |
