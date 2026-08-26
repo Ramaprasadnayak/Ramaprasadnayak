@@ -57,8 +57,7 @@ open_to: ["Internships", "Collaborative Projects", "Open Source"]
 <tr>
 <td width="50%" valign="top">
 
-** Building**
-Refining MediCare's backend logic and cart/checkout flow, with an emphasis on clean state management in Flutter.
+Current Focus: Developing SafeYatra, an AI-powered tourist safety system with a focus on the backend, multilingual communication, location-based safety, and AI-driven risk assessment.
 
 </td>
 <td width="50%" valign="top">
